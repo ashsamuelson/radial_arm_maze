@@ -1,4 +1,4 @@
-#RAM SIMULATIONS
+#RAM SIMULATIONS 
 
 #CHANCE
 #This runs a simulation of 100000 trials in the RAM, assuming a bee visits flowers at random (ie no stereotypical behaviour or spatial memory)
